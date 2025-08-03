@@ -64,10 +64,7 @@ Pillow (incluida en requirements.txt)
 
 ---
 
-🧠 Autor
-
-Vanille – nodo táctico, estilo callejero, precisión quirúrgica.
-
+🧠 Autor: Vanille 
 > 🐚 "Cada byte cuenta una historia. Cada imagen oculta una firma."
 
 
