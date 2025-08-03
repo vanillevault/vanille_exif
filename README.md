@@ -1,4 +1,4 @@
-# 🥀 vainilla_exif.py
+# 🥀 vanille_exif.py
 
 Script OSINT creado por Vanille para extraer metadatos EXIF de imágenes (.jpg/.jpeg) desde la línea de comandos. Minimalista, directo, perfecto para Termux, nodos personales o auditorías discretas.
 
