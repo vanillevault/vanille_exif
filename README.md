@@ -7,8 +7,8 @@ Script OSINT creado por Vanille para extraer metadatos EXIF de imágenes (.jpg/.
 ## 📥 Instalación
 
 ```bash
-git clone https://github.com/vanilleghost/vainilla_exif.git
-cd vainilla_exif
+git clone https://github.com/vanillevault/vanille_exif.git
+cd vanille_exif
 pip install -r requirements.txt
 
 > Asegúrate de tener Python 3 y pip instalados.
@@ -20,11 +20,11 @@ pip install -r requirements.txt
 
 🚀 Uso
 
-python3 vainilla_exif.py ruta/a/imagen.jpg
+python3 vanille_exif.py ruta/a/imagen.jpg
 
 Ejemplo:
 
-python3 vainilla_exif.py /sdcard/DCIM/Camera/IMG_2048.jpg
+python3 vanille_exif.py /sdcard/DCIM/Camera/IMG_2048.jpg
 
 
 ---
